@@ -1,3 +1,1 @@
-name = "Alice"
-print("Hello " + name)
-print("{} is {} years old".format("Alice", 30))
+print ("Welcome to L4 Programming Unit")
